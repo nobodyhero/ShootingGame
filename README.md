@@ -1,7 +1,7 @@
 # ShootingGame
 Shooting Game by Python with Pyglet library.
 
-This game programming is used and explained in the following video.
+This game programming is used and explained in the video.
 https://youtu.be/RWZfQLvtqrU
 
 The referrenced document.
